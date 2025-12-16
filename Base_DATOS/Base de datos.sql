@@ -1,0 +1,3 @@
+USE mysql;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '';
+FLUSH PRIVILEGES;
